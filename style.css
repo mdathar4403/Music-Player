@@ -16,7 +16,7 @@ body {
   font-size: 12px;
 }
 .player-container{
-  height: 500px;
+  height: 550px;
   width: 400px;
   background-color: #e7e7e7;
   border-radius: 20px;
@@ -81,7 +81,13 @@ h3 {
   display: flex;
   justify-content: space-between;
 }
-
+.developer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  top: -20px;
+}
 /* Controls */
 .player-controls {
   position: relative;
